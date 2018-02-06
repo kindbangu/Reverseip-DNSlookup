@@ -1,0 +1,12 @@
+<RCC>
+  <qresource prefix="dnslookup">
+    <file>exit.png</file>
+    <file>file_upload.png</file>
+    <file>fileopen.png</file>
+    <file>if_folder_new_1971.png</file>
+    <file>saveCSV.png</file>
+    <file>searchDomain.png</file>
+    <file>URLopen.png</file>
+    <file>windowMain.png</file>
+  </qresource>
+</RCC>
