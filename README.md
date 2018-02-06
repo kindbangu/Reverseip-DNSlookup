@@ -14,5 +14,5 @@ python3 버전을 이용한다.<br>
 DNSlookup.py를 실행하기 위해 다음 모듈을 설치한다.<br>
 sudo apt-get install python3-pip<br>
 sudo pip3 install PyQt5<br>
-DNSLookup_rc.py를 같은 경로에 놓는다.<br>
+DNSLookup_rc.py파일과 resources 폴더를 같은 경로에 위치시킨다.<br>
 python DNSlookup.py<br>
